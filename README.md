@@ -2,7 +2,7 @@
 <h2 align="center">I Love Programming </h2>
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+## I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
