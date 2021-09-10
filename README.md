@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, It's me Sagar Nirwal</h1>
+<h1 align="center">👋 Hello It's me Sagar Nirwal</h1>
 <h2 align="center">I Love Programming </h2>
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
