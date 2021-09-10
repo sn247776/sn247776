@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, It's me Sagar Nirwal</h1>
 <h2 align="center">I Love Programming </h2>
 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
@@ -12,5 +13,4 @@
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+
