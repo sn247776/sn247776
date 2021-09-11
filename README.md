@@ -87,9 +87,9 @@
 
 <br/>  
 
-## Recent
+## Spotify Listening
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=tlitwt146i78q30xk95hi390z&cover_image=true&theme=default" /></div>  
 <!-- BLOG-POST-LIST:END -->  
 
 ## Github Stats  
@@ -97,7 +97,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/> 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=tlitwt146i78q30xk95hi390z&cover_image=true&theme=default" /></div>  
+
 
 <br/>  
 
