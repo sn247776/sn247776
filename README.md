@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/JH75Nauu3rEbPxsoQ3/giphy.gif?cid=790b761114bce00fa067e33058a9a2f6045061e32f4647c1&rid=giphy.gif&ct=g?raw=true" width="500" height="320" />
 
 ## I'm a Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
