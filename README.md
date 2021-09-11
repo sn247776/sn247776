@@ -5,14 +5,12 @@
 
 ## I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here
-- 🔭 I’m currently working on my first book.
+- 🔭 I’m currently working on my first c++ project.
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 2 languages ( English, Hindi)
 <br>
-<br/>  
 
 
 ## My Skill Set  
