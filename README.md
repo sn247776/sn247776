@@ -109,7 +109,7 @@
 <br/>  
 
 <div align="center">
-            <a href="https://paypal.me/sagar247776" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/sn247776" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="center"
