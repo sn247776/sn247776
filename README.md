@@ -13,8 +13,11 @@
 
 ## My Skill Set  
 
-<table>
-  <td><td valign="top" width="60%">
+ <table>
+
+</tr><td valign="top" width="60%">
+
+
 
 ### Frontend  
 <div align="left">
@@ -30,8 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
 </div>
-    
-     <td><td valign="top" width="40%">
+
+</td><td valign="top" width="40%">
+
+
 
 ### Graphic Design  
 <div align="left">
@@ -47,7 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
 </div>
- </table>
+
+</td></tr></table> 
 <table>
 
 </td><td valign="top" width="50%">
