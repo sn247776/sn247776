@@ -15,7 +15,7 @@
 
  <table>
 
-</tr><td valign="top" width="60%">
+</tr><td valign="top" width="50%">
 
 
 
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="50%">
 
 
 
