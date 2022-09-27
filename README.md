@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
 </div>
     
-     <tr><td valign="top" width="40%">
+     <td><td valign="top" width="40%">
 
 ### Graphic Design  
 <div align="left">
