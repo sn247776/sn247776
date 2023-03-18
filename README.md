@@ -27,7 +27,7 @@
 <a href="https://nodejs.org/" target="_blank"> <img src="icons/ps.png" alt="ps"  height="50"/> </a>
 
 
-[NextJs](https://nextjs.org/) | [TypeScript](https://www.typescriptlang.org/) | [MongoDB](https://www.mongodb.com/) | [Firebase](https://firebase.google.com/)
+[Canva](https://www.canva.com/) | [CodePen](https://codepen.io/) | [AdobeXD](https://www.adobe.com/sg/products/xd/switcher.html)
 
 
 # 📊 GitHub Stats:
