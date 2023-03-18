@@ -1,4 +1,4 @@
-<h1 align="center"><img src="wave.gif" width="30px">Hia It's me sn247776</h1>
+<h1 align="center">Hia <img src="wave.gif" width="30px"> It's me sn247776</h1>
 
 <img align="right" width="350px" src="about.png"/>
 
@@ -18,6 +18,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="icons/css.png" alt="css"  height="50"/> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img src="icons/sass.png" alt="sass" height="50"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="icons/express.png" alt="express"  height="50"/> </a>
+
+[NextJs](https://nextjs.org/) | [TypeScript](https://www.typescriptlang.org/) | [MongoDB](https://www.mongodb.com/) | [Firebase](https://firebase.google.com/)
+
+## 💻 Websites and Tools:
+<a href="https://www.javascript.com/" target="_blank"> <img src="icons/code.png" alt="vscode"  height="50"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="icons/git.png" alt="github" height="50"/> </a>
+<a href="https://nodejs.org/" target="_blank"> <img src="icons/ps.png" alt="ps"  height="50"/> </a>
+
 
 [NextJs](https://nextjs.org/) | [TypeScript](https://www.typescriptlang.org/) | [MongoDB](https://www.mongodb.com/) | [Firebase](https://firebase.google.com/)
 
