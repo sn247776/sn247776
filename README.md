@@ -1,6 +1,6 @@
 <h1 align="center"><img src="wave.gif" width="30px">Hia It's me sn247776</h1>
 
-<img align="right" width="100px" src="wave.gif"/>
+<img align="right" width="100px" src="about.png"/>
 
 🌱 I’m currently learning TypeScript
 <br>🤝 I’m looking for help with React JS
