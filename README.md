@@ -2,7 +2,12 @@
 
 <img align="right" width="100px" src="https://spotify-github-profile.vercel.app/api/view?uid=tlitwt146i78q30xk95hi390z&cover_image=true&theme=default"/>
 
-🌱 I’m currently learning TypeScript<br>🤝 I’m looking for help with React JS<br>🔭 I’m currently working on MERN Stack Project<br>👯 I’m looking to collaborate on Full Stack Projects<br>💬 Ask me about Front End and Graphic Designing
+🌱 I’m currently learning TypeScript
+<br>🤝 I’m looking for help with React JS
+<br>🔭 I’m currently working on MERN Stack Project
+<br>👯 I’m looking to collaborate on Full Stack Projects
+<br>💬 Ask me about Front End and Graphic Designing 
+<br>⚡ Fun fact use my username to find me anywhere on social media
 <br>
 <hr>
 
