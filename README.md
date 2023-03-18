@@ -19,6 +19,8 @@
 <a href="https://sass-lang.com/" target="_blank"> <img src="icons/sass.png" alt="sass" height="50"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="icons/express.png" alt="express"  height="50"/> </a>
 
+[NextJs](https://nextjs.org/) | [Nodejs](https://nodejs.org/) | [mongodb](https://www.mongodb.com/) | [flutter](https://flutter.dev/) | [Firebase](https://firebase.google.com/)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false)
