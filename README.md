@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello It's me Sagar Nirwal</h1>
-<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=tlitwt146i78q30xk95hi390z&cover_image=true&theme=default" /></div>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=tlitwt146i78q30xk95hi390z&cover_image=true&theme=default" />
 ## I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here
 - 🔭 I’m currently working on my first c++ project.
