@@ -2,12 +2,7 @@
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=tlitwt146i78q30xk95hi390z&cover_image=true&theme=default" />
 
-- ✍ You can find my projects here
-- 🔭 I’m currently working on my first c++ project.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 2 languages ( English, Hindi)
+🌱 I’m currently learning TypeScript<br>🤝 I’m looking for help with React JS<br>🔭 I’m currently working on MERN Stack Project<br>👯 I’m looking to collaborate on Full Stack Projects<br>💬 Ask me about Front End and Graphic Designing
 <br>
 <hr>
 
