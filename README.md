@@ -15,9 +15,9 @@
 <a href="https://www.javascript.com/" target="_blank"> <img src="icons/js.png" alt="js"  height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="icons/react.png" alt="reactjs" height="50"/> </a>
 <a href="https://nodejs.org/" target="_blank"> <img src="icons/node.png" alt="nodejs"  height="50"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="icons/css.png" alt="js"  height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="icons/sass.png" alt="reactjs" height="50"/> </a>
-<a href="https://nodejs.org/" target="_blank"> <img src="icons/express.png" alt="nodejs"  height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="icons/css.png" alt="css"  height="50"/> </a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="icons/sass.png" alt="sass" height="50"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="icons/express.png" alt="express"  height="50"/> </a>
 
 
 # 📊 GitHub Stats:
