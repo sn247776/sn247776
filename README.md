@@ -9,8 +9,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 2 languages ( English, Hindi)
 <br>
-<br>
-<br>
+<hr>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false)
