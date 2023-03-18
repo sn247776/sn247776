@@ -1,5 +1,7 @@
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false)<br/>
+<center>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false)
+</center>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
