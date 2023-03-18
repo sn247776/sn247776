@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello It's me Sagar Nirwal</h1>
+<h1 align="center">👋 Hello It's me Sagar Nirwal</h1>
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=tlitwt146i78q30xk95hi390z&cover_image=true&theme=default" />
 
 ## I'm a Developer, Creator, and Mentor!!
