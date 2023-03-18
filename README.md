@@ -29,12 +29,12 @@
 [Canva](https://www.canva.com/) | [CodePen](https://codepen.io/) | [AdobeXD](https://www.adobe.com/sg/products/xd/switcher.html)
 
 ## 🌐 Connect with me:
-<a href="https://www.javascript.com/" target="_blank"> <img src="icons/fb.png" alt="fb"  height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="icons/gmail.png" alt="gmail" height="50"/> </a>
-<a href="https://nodejs.org/" target="_blank"> <img src="icons/insta.png" alt="insta"  height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="icons/linkedin.png" alt="css"  height="50"/> </a>
-<a href="https://sass-lang.com/" target="_blank"> <img src="icons/tg.png" alt="sass" height="50"/> </a>
-<a href="https://expressjs.com/" target="_blank"> <img src="icons/twitter.png" alt="express"  height="50"/> </a>
+<a href="https://www.facebook.com/sn247776/" target="_blank"> <img src="icons/fb.png" alt="fb"  height="50"/> </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sn247776@gmail.com/" target="_blank"> <img src="icons/gmail.png" alt="gmail" height="50"/> </a>
+<a href="https://www.instagram.com/sn247776/" target="_blank"> <img src="icons/insta.png" alt="insta"  height="50"/> </a>
+<a href="https://www.linkedin.com/in/sn247776/" target="_blank"> <img src="icons/linkedin.png" alt="linkedin"  height="50"/> </a>
+<a href="https://t.me/sagar247776/" target="_blank"> <img src="icons/tg.png" alt="tg" height="50"/> </a>
+<a href="https://twitter.com/sn247776/" target="_blank"> <img src="icons/twitter.png" alt="twitter"  height="50"/> </a>
 
 <hr>
 
