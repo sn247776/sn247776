@@ -4,10 +4,10 @@
 
 🌱 I’m currently learning TypeScript
 <br>🤝 I’m looking for help with React JS
+<br>⚡ Fun fact use sn247776 to find me anywhere
 <br>🔭 I’m currently working on MERN Stack Project
-<br>👯 I’m looking to collaborate on Full Stack Projects
 <br>💬 Ask me about Front End and Graphic Designing 
-<br>⚡ Fun fact use my username to find me anywhere on social media
+<br>👯 I’m looking to collaborate on Full Stack Projects
 <br>
 <hr>
 
