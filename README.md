@@ -12,7 +12,7 @@
 <hr>
 
 # 💻 Skills:
-<a href="https://www.javascript.com/" target="_blank"> <img src="icons/js.png" alt="js" width="50" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="icons/js.png" alt="js"  height="50"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/react-native.png" alt="mysql" width="40" height="40"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/nolan/64/angularjs.png" alt="mysql" width="40" height="40"/> </a>
 
