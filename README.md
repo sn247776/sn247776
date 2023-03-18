@@ -26,9 +26,17 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="icons/git.png" alt="github" height="50"/> </a>
 <a href="https://nodejs.org/" target="_blank"> <img src="icons/ps.png" alt="ps"  height="50"/> </a>
 
-
 [Canva](https://www.canva.com/) | [CodePen](https://codepen.io/) | [AdobeXD](https://www.adobe.com/sg/products/xd/switcher.html)
 
+## 🌐 Connect with me:
+<a href="https://www.javascript.com/" target="_blank"> <img src="icons/fb.png" alt="fb"  height="50"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="icons/gmail.png" alt="gmail" height="50"/> </a>
+<a href="https://nodejs.org/" target="_blank"> <img src="icons/insta.png" alt="insta"  height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="icons/linkedin.png" alt="css"  height="50"/> </a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="icons/tg.png" alt="sass" height="50"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="icons/twitter.png" alt="express"  height="50"/> </a>
+
+<hr>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false)
