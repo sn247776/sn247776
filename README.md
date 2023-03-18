@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello It's me Sagar Nirwal</h1>
+<h1 align="center"><img src="wave.gif" width="30px">Hello It's me Sagar Nirwal</h1>
 
 <img align="right" width="100px" src="https://spotify-github-profile.vercel.app/api/view?uid=tlitwt146i78q30xk95hi390z&cover_image=true&theme=default"/>
 
