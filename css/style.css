@@ -710,6 +710,9 @@ iframe {
   .portfolio .portfolio-container {
     grid-template-columns: repeat(2, 1fr);
   }
+  .profession-container{
+    display: none;
+  }
 }
 
 @media (max-width: 617px) {
