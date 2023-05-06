@@ -169,7 +169,8 @@ section {
 }
 
 .home-content p {
-  font-size: 1.6rem;
+  font-size: 2rem;
+  letter-spacing: 2px;
 }
 
 .home-content .social-media a {
@@ -598,16 +599,17 @@ iframe {
     background: var(--bg-color);
     border-top: 1rem solid rgba(0, 0, 0, 0.2);
     box-shadow: 0.5rem 1rem Orgba(0, 0, 0, 0.1);
-    display: none;
+    transform: translateX(150%);
+    transition: transform .5s ease;
   }
 
   .navbar.active {
-    display: block;
+    transform: translateY(0%);
   }
 
   .navbar a {
     display: block;
-
+    text-align: center;
     font-size: 2rem;
     margin: 3rem 0;
     color: var(--text-color);
@@ -629,10 +631,12 @@ iframe {
     text-align: center;
   }
   .home-content h3 {
-    font-size: 2.6rem;
+    font-size: 3rem;
+    padding: 20px 0;
   }
   .home-content h1 {
-    font-size: 5rem;
+    font-size: 6rem;
+    padding-bottom: 20px;
   }
 
   .home-content .social-media a {
@@ -730,6 +734,13 @@ iframe {
   } */
   .home {
     padding: 0 3% 30rem;
+  }
+
+  .home-content h3 {
+    font-size: 3rem;
+  }
+  .home-content h1 {
+    font-size: 6rem;
   }
 
   .home .profession-box .profession:nth-child(1) {
