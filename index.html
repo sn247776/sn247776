@@ -166,8 +166,10 @@
               using the MERN stack. The main purpose of this website is to allow
               users to order food online.
             </p>
-            
-            <a href="https://yummybites.vercel.app/" target="_blank"><i class="bx bx-link-external"></i></a>
+
+            <a href="https://yummybites.vercel.app/" target="_blank"
+              ><i class="bx bx-link-external"></i
+            ></a>
           </div>
         </div>
         <div class="portfolio-box">
@@ -252,14 +254,30 @@
     <!-- contact section design -->
     <section class="contact" id="contact">
       <h2 class="heading">Contact <span>Me!</span></h2>
-      <div>
-        <iframe
-          src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d516.4679113638166!2d77.32406393531963!3d29.447259112222717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjnCsDI2JzUwLjciTiA3N8KwMTknMjYuNCJF!5e0!3m2!1sen!2sin!4v1678967409671!5m2!1sen!2sin"
-          style="border: 0"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
-        ></iframe>
+      <div class="contact-us">
+        <div>
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d516.4679113638166!2d77.32406393531963!3d29.447259112222717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjnCsDI2JzUwLjciTiA3N8KwMTknMjYuNCJF!5e0!3m2!1sen!2sin!4v1678967409671!5m2!1sen!2sin"
+            style="border: 0"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+        <div class="contact-form">
+          <form action="https://formspree.io/f/xayzvvyw" method="POST">
+            <div>
+              <input type="name" name="text" placeholder="Full Name" required />
+              <input type="email" name="email" placeholder="Email Address" required/>
+            </div>
+            <div>
+              <input type="number" name="mobile" placeholder="Mobile Number" />
+              <input type="text" name="subject" placeholder="Email Subject" />
+            </div>
+            <textarea name="message" placeholder="Your Message" required></textarea>
+            <button type="submit" class="btn">Send</button>
+          </form>
+        </div>
       </div>
     </section>
 
