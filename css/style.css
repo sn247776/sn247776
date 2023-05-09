@@ -32,18 +32,22 @@
   background: var(--main-color);
 }
 
+
+
 :root {
   --main-color: #ff3a16;
   --white-color: #fdfdfd;
   --bg-color: #0b061f;
   --text-color: #fdfdfd;
   --shadow-color: rgba(0, 0, 0, 0.7);
+  --dark-map: invert(90%);
 }
 
 .dark-mode {
   --bg-color: #fdfdfd;
   --text-color: #333;
   --shadow-color: rgba(170, 15, 15, 0.2);
+  --dark-map: invert(0%);
 }
 
 html {
@@ -54,6 +58,9 @@ html {
 body {
   background: var(--bg-color);
   color: var(--text-color);
+}
+iframe{
+  filter: var(--dark-map);
 }
 
 .header {
