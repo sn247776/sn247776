@@ -39,9 +39,14 @@
 <hr>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sn247776&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sn247776&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sn247776&theme=gruvbox&utcOffset={utcOffset})
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sn247776&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sn247776&theme=gruvbox)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-![sn247776's GitHub stats](https://github-readme-stats.vercel.app/api?username=sn247776&show_icons=true&theme=vision-friendly-dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn247776&layout=compact&theme=vision-friendly-dark&langs_count=8ount_private=true)
+<!-- ![sn247776's GitHub stats](https://github-readme-stats.vercel.app/api?username=sn247776&show_icons=true&theme=vision-friendly-dark&count_private=true) -->
