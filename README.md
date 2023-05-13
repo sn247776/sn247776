@@ -42,7 +42,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sn247776&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sn247776&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sn247776&theme=gruvbox&utcOffset={utcOffset})
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sn247776&theme=gruvbox&utcOffset=5.30)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sn247776&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sn247776&theme=gruvbox)
