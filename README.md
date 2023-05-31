@@ -39,7 +39,7 @@
 <hr>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sn247776&theme=vision-friendly-dark&hide_border=false) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sn247776&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sn247776&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sn247776&theme=gruvbox&utcOffset=5.30)
