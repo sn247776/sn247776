@@ -2,12 +2,12 @@
 
 <img align="right" width="350px" src="about.png"/>
 
-🌱 I’m currently learning TypeScript
-<br>🤝 I’m looking for help with React JS
+🌱 I’m currently learning WEB 3
+<br>🤝 I’m looking for help with DApp
 <br>⚡ Fun fact use sn247776 to find me anywhere
-<br>🔭 I’m currently working on MERN Stack Project
-<br>💬 Ask me about Front End and Graphic Designing 
-<br>👯 I’m looking to collaborate on Full Stack Projects
+<br>🔭 I’m currently working on the DApp Stack Project
+<br>💬 Ask me about the Full Stack Web App
+<br>👯 I’m looking to collaborate on DApp
 <br>
 <hr>
 
