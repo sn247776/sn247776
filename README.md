@@ -1,4 +1,4 @@
-<h1 align="center">Hia <img src="wave.gif" width="30px"> It's me <a href="https://sn247776.vercel.app/">sn247776</a></h1>
+<h1 align="center">Hia It's me <a href="https://sn247776.vercel.app/">sn247776</a></h1>
 
 <img align="right" width="350px" src="about.png"/>
 
